@@ -10,10 +10,10 @@ Features
 
 DisasterPrep Application includes the following features:
 
-    Checklist: Users can view a checklist of items to prepare for natural disasters, including earthquakes, floods and hurricanes.
-    Emergency Contacts: Users can view important emergency contacts for their area, including emergency services, police, and fire department.
-    Disaster Information: View information about different types of disasters, including causes and safety tips.
-    Add Items: Admin users can add new items to the checklist or new emergency contacts.
+   - Checklist: Users can view a checklist of items to prepare for natural disasters, including earthquakes, floods and hurricanes.
+   - Emergency Contacts: Users can view important emergency contacts for their area, including emergency services, police, and fire department.
+   - Disaster Information: View information about different types of disasters, including causes and safety tips.
+   - Add Items: Admin users can add new items to the checklist or new emergency contacts.
 
 
 Technologies Used
